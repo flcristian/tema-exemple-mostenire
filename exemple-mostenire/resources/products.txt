@@ -1,0 +1,5 @@
+﻿Book/1/12.99/Ion/Liviu Rebreanu/Novel
+Decoration/2/39.99/Wall Clock/Clocks/Clockers
+Instrument/3/340/Guitar/Chord/True
+Tool/4/152.49/Drill/550/Construction/Toshiba
+Toy/5/68.99/Lego Star Wars/4/10000 pieces/Choking hazard

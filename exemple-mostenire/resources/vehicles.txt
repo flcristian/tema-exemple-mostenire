@@ -1,0 +1,5 @@
+﻿Car/1/BMW/M4/240/Blue
+Plane/2/Ikarus/C42/450/20000/180/100
+Bicycle/3/Giant/Trinity/Black/False
+Helicopter/4/Bell/429/287/3175/5704
+Boat/5/Yamaha/SX220/57/White
