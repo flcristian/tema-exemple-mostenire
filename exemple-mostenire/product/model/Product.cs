@@ -1,4 +1,5 @@
-﻿using System;
+﻿using exemple_mostenire.product.model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace exemple_mostenire.product
 {
-    public class Product
+    public class Product : IProduct
     {
         private int _id;
         private double _price;
